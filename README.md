@@ -1,1 +1,1 @@
-# Hello, you can go to /recipies or /places
+# Hello, you can go to /recipies, /places, or /aether
